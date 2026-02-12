@@ -36,7 +36,7 @@ Vercel 会自动检测 `vercel.json` 配置文件。主要配置包括：
 
 ### 5. 部署区域 / Deployment Region
 
-配置默认部署在香港区域（`hkg1`），以优化中国大陆的访问速度。
+Vercel 自动使用全球边缘网络部署，确保全球范围内的快速访问。
 
 ## 配置文件说明 / Configuration Files
 
