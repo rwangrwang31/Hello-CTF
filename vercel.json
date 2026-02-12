@@ -4,7 +4,6 @@
   "devCommand": "mkdocs serve",
   "installCommand": "uv pip install --system -r requirements.txt",
   "framework": null,
-  "public": false,
   "headers": [
     {
       "source": "/(.*).html",
