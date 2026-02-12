@@ -5,8 +5,15 @@ comments: true
 
 # 在Linux上部署Docker环境
 
-本文也有配套视频，建议结合食用：(给个三连吧www)
-https://www.bilibili.com/video/BV1684y1z7L6
+!!! warning "图片加载说明"
+    本文档中的部分图片暂时无法显示，图片托管服务可能不可用。**强烈建议观看配套视频教程**以获得完整的视觉指导。
+
+!!! info "配套视频教程"
+    本文档有详细的视频教程，建议配合视频学习，获得更好的学习体验：
+    
+    **视频链接：** [https://www.bilibili.com/video/BV1684y1z7L6](https://www.bilibili.com/video/BV1684y1z7L6)
+    
+    视频中包含了所有步骤的详细演示和说明。
 
 ## About
 
