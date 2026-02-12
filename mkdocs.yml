@@ -230,7 +230,7 @@ nav:
       - XSS攻击: hc-web/xss.md
       - 文件包含: hc-web/include.md
       - SSTI注入: hc-web/ssti.md
-      - XXE注入: hc-web/xxe.md
+      - XXE注入: hc-web/XXE.md
       - SSRF注入: hc-web/ssrf.md
       - PHP 代码审计: hc-web/php_code_audit.md
       - RCE: hc-web/rce.md
@@ -244,7 +244,6 @@ nav:
       - 前情提要: hc-crypto/Recap.md
       - 编码基础: hc-crypto/Encode.md
       - 古典密码: hc-crypto/Classicalcipher.md
-      - 现代密码: hc-crypto/Moderncipher.md
 
     - Reverse | 逆向工程:
       - hc-reverse/index.md
@@ -261,8 +260,6 @@ nav:
       - 栈上数组越界&栈溢出: hc-pwn/Stack_Overflow.md
       - ROP入门: hc-pwn/ROP.md
       - 常见的ROP技巧: hc-pwn/ROP_Tricks.md
-      - 常见保护: hc-pwn/Protections.md
-      - 杂七杂八的解题技巧: hc-pwn/Tricks.md
 
     - AWD | 攻防模式:
       - AWD介绍: hc-awd/awd_about.md
@@ -316,8 +313,6 @@ nav:
     - 即将开始: Event/Upcoming_events.md
     - 正在进行: Event/Now_running.md
     - 已经结束: Event/Past_events.md
-    - 办赛指南:
-      - Event/organize.md
 
 # - Hello CTF 系列靶场文档
   - 靶场: hc-labs/index.md
