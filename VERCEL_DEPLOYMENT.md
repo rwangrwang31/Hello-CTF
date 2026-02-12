@@ -15,10 +15,12 @@
 Vercel 会自动检测 `vercel.json` 配置文件。主要配置包括：
 
 - **Framework Preset**: None (使用自定义配置)
-- **Build Command**: `pip install -r requirements.txt && mkdocs build`
+- **Build Command**: `uv pip install --system -r requirements.txt && mkdocs build`
 - **Output Directory**: `site`
-- **Install Command**: `pip install -r requirements.txt`
+- **Install Command**: `uv pip install --system -r requirements.txt`
 - **Python Version**: 3.9.17 (在 `runtime.txt` 中指定)
+
+**注意**: Vercel 现在使用 `uv` 管理 Python 环境，因此需要使用 `uv pip install --system` 命令来安装依赖包。
 
 ### 3. 环境变量 / Environment Variables
 
